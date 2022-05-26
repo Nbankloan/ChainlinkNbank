@@ -3,6 +3,10 @@
 
 NBank is an ERC20 token bank that produces NFTs in batch while providing composable deposit certificates.
 
+## YouTube
+
+https://youtu.be/HhoUJRuXu1A
+
 ## How to use it?
 
 1.Use the ERC20 token factory to create an token, and set basic information such as the token name, issuance quantity, token logo, and decimal places.  
